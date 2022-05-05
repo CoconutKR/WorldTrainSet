@@ -12,6 +12,7 @@ STR_GT26CW_NAME                                     :[WTS] GT26CW
 STR_NHSRCL_E5_NAME                                  :[WTS] NHSRCL E5
 STR_THSR_700T_NAME                                  :[WTS] THSR 700T
 STR_Renfe_S_130_NAME                                :[WTS] Afrosiyob
+STR_Al_Boraq_NAME                                   :[WTS] Al-Boraq
 
 # wagon's name
 STR_WTS_1F_PASS_NAME                                :[WTS] 1F Passenger Car
@@ -28,6 +29,7 @@ STR_REFIT_ADDITIONAL_GT26CW                         :{BLACK}Existence of trains 
 STR_REFIT_ADDITIONAL_NHSRCL_E5                      :{BLACK}Existence of trains : {PURPLE}Plan Train {}{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}NHSRCL E5
 STR_REFIT_ADDITIONAL_THSR_700T                      :{BLACK}Existence of trains : {BLUE}Real train {}{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_Renfe_S_130                    :{BLACK}Existence of trains : {BLUE}Real train {}{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
+STR_REFIT_ADDITIONAL_Al_Boraq                       :{BLACK}Existence of trains : {BLUE}Real train {}{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 
 STR_REFIT_ADDITIONAL                                :{BLACK}Changing model/livery: {GREEN}Available
 STR_REFIT_train_configuration_1F                    :{BLACK}train configuration: {GREEN}1F passenger vehicles
