@@ -10,6 +10,7 @@ STR_GRF_URL                                      :https://github.com/KoreanGRF/K
 STR_GT26CW_NAME                                     :[WTS] GT26CW
 STR_NHSRCL_E5_NAME                                  :[WTS] NHSRCL E5
 STR_THSR_700T_NAME                                  :[WTS] THSR 700T
+STR_Renfe_S_130_NAME                                :[WTS] 아프로시욥
 
 # wagon's name
 STR_WTS_1F_PASS_NAME                                :[WTS] 1층 공통 객차
@@ -25,6 +26,7 @@ STR_PARAM_High_SPEED_Train_DESC                     :고속열차의 속도를 �
 STR_REFIT_ADDITIONAL_GT26CW                         :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}GT26CW
 STR_REFIT_ADDITIONAL_NHSRCL_E5                      :{BLACK}열차 실존여부 : {PURPLE}계획 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}NHSRCL E5
 STR_REFIT_ADDITIONAL_THSR_700T                      :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
+STR_REFIT_ADDITIONAL_Renfe_S_130                    :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
 
 STR_REFIT_ADDITIONAL                                :{BLACK}도색/모델 변경: {GREEN}가능
 STR_REFIT_train_configuration_1F                    :{BLACK}열차구성: {GREEN}1층 승객 차량용
