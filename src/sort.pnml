@@ -7,6 +7,7 @@ sort(FEAT_TRAINS, [
     THSR_700T,                 //1093
     Renfe_S_130,               //1094
     Al_Boraq,                  //1095
+    Talgo_350_SRO,             //1099
 
     WTS_1F_Passenger_Car,      //1089
     WTS_2F_Passenger_Car,      //1090

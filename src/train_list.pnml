@@ -7,6 +7,7 @@
 #include "locomotive/THSR_700T/THSR_700T.pnml"
 #include "locomotive/Renfe_S_130/Renfe_S_130.pnml"
 #include "locomotive/AL_BORAQ/Al_Boraq.pnml"
+#include "locomotive/Talgo_350_SRO/Talgo_350_SRO.pnml"
 
 // Sorting
 #include "sort.pnml"

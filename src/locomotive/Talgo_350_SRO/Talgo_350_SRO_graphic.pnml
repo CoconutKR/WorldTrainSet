@@ -1,44 +1,45 @@
 /*--------------------------------------------------------------------
 Graphics
 --------------------------------------------------------------------*/
-spriteset(set_Renfe_S_102_purchase, "src/locomotive/Renfe/Renfe_S_102/Renfe_S_102_AVE.png"){
-    tmpl_purchase(0, 0)
+spriteset(set_Talgo_350_SRO_purchase, "src/locomotive/Talgo_350_SRO/Talgo_350_SRO.png"){
+	tmpl_purchase(0, 0)
 }
 
 /*--------------------------------------------------------------------
-1. AVE
+1. Talgo 350 SRO
 --------------------------------------------------------------------*/
-spriteset(set_Renfe_S_102_AVEH_purchase, "src/locomotive/Renfe/Renfe_S_102/Renfe_S_102_AVE.png"){
-    tmpl_purchase_for_dualhead(0, 135)
+
+spriteset(set_Talgo_350_SROH_purchase, "src/locomotive/Talgo_350_SRO/Talgo_350_SRO.png"){
+	tmpl_purchase_for_dualhead(0, 108)
 }
 
-spriteset(set_Renfe_S_102_AVE_engineH, "src/locomotive/Renfe/Renfe_S_102/Renfe_S_102_AVE.png"){
-    engine(80, 0)
+spriteset(set_Talgo_350_SRO_engineH, "src/locomotive/Talgo_350_SRO/Talgo_350_SRO.png"){
+	engine(80, 0)
 }
 
-spriteset(set_Renfe_S_102_AVE_wagon_start, "src/locomotive/Renfe/Renfe_S_102/Renfe_S_102_AVE.png"){
-    wagon_start(80, 27)
+spriteset(set_Talgo_350_SRO_wagon_start, "src/locomotive/Talgo_350_SRO/Talgo_350_SRO.png"){
+	wagon_start(80, 27)
 }
 
-spriteset(set_Renfe_S_102_AVE_wagon, "src/locomotive/Renfe/Renfe_S_102/Renfe_S_102_AVE.png") {
-    wagon_1F_F(80, 54)
+spriteset(set_Talgo_350_SRO_wagon, "src/locomotive/Talgo_350_SRO/Talgo_350_SRO.png") {
+	wagon_1F_F(80, 54)
 }
 
-spriteset(set_Renfe_S_102_AVE_wagon_bar, "src/locomotive/Renfe/Renfe_S_102/Renfe_S_102_AVE.png") {
-    wagon_bar(80, 81)
+spriteset(set_Talgo_350_SRO_wagon_r, "src/locomotive/Talgo_350_SRO/Talgo_350_SRO.png") {
+	wagon_1F_F_r(80, 54)
 }
 
-spriteset(set_Renfe_S_102_AVE_wagon_end, "src/locomotive/Renfe/Renfe_S_102/Renfe_S_102_AVE.png"){
-    wagon_start(80, 108)
+spriteset(set_Talgo_350_SRO_wagon_end, "src/locomotive/Talgo_350_SRO/Talgo_350_SRO.png"){
+	wagon_start(80, 81)
 }
 
-spriteset(set_Renfe_S_102_AVE_engineT, "src/locomotive/Renfe/Renfe_S_102/Renfe_S_102_AVE.png"){
-    engine_r(80, 135)
+spriteset(set_Talgo_350_SRO_engineT, "src/locomotive/Talgo_350_SRO/Talgo_350_SRO.png"){
+	engine_r(80, 108)
 }
 
 /*--------------------------------------------------------------------
 구매정보
 --------------------------------------------------------------------*/
-switch(FEAT_TRAINS, SELF, sw_Renfe_S_102_purchase, cargo_subtype) {
-    set_Renfe_S_102_purchase;
+switch(FEAT_TRAINS, SELF, sw_Talgo_350_SRO_purchase, cargo_subtype) {
+	set_Talgo_350_SRO_purchase;
 }
