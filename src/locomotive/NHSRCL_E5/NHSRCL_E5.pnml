@@ -61,7 +61,7 @@ item(FEAT_TRAINS, NHSRCL_E5, 1092){
         additional_text:                string(STR_REFIT_ADDITIONAL_NHSRCL_E5);
         }
         
-    livery_override(WTS_1F_Passenger_Car) {
+    livery_override(WTS_Passenger_Car) {
         default:                        sw_NHSRCL_E5_wagon;
         cargo_capacity:                 100;
         loading_speed:                  25;

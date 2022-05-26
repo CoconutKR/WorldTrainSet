@@ -17,8 +17,7 @@ STR_Talgo_350_SRO_NAME                              :[WTS] Talgo 350 SRO
 STR_Avelia_Liberty_NAME                             :[WTS] Avelia Liberty
 
 # wagon's name
-STR_WTS_1F_PASS_NAME                                :[WTS] 1F Passenger Car
-STR_WTS_2F_PASS_NAME                                :[WTS] 2F Passenger Car
+STR_WTS_PASS_NAME                                :[WTS] 1F Passenger Car
 
 # Parameters
 STR_PARAM_Regular_SPEED_Train_NAME                  :Regular Train Speed Variable
@@ -36,8 +35,7 @@ STR_REFIT_ADDITIONAL_Talgo_350_SRO                  :{BLACK}Existence of trains 
 STR_REFIT_ADDITIONAL_Avelia_Liberty                 :{BLACK}Existence of trains : {BLUE}Real train {}{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 
 STR_REFIT_ADDITIONAL                                :{BLACK}Changing model/livery: {GREEN}Available
-STR_REFIT_train_configuration_1F                    :{BLACK}train configuration: {GREEN}1F passenger vehicles
-STR_REFIT_train_configuration_2F                    :{BLACK}train configuration: {GREEN}2F passenger vehicles
+STR_REFIT_train_configuration                       :{BLACK}train configuration: {GREEN}passenger vehicles
 
 # Liveries
 

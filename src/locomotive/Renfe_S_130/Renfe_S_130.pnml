@@ -62,7 +62,7 @@ item(FEAT_TRAINS, Renfe_S_130, 1094){
         additional_text:                string(STR_REFIT_ADDITIONAL_Renfe_S_130);
         }
 
-    livery_override(WTS_1F_Passenger_Car) {
+    livery_override(WTS_Passenger_Car) {
         default:                        sw_Renfe_S_130_wagon;
         cargo_capacity:                 85;
         loading_speed:                  25;
