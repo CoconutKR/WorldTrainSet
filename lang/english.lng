@@ -29,7 +29,7 @@ STR_PARAM_High_SPEED_Train_DESC                     :Adjust the speed of the hig
 # Refit (Additional text) Real Trian(BLUE), Test Train(YELLOW), Plan Train(PURPLE), Virtual Train(RED)
 STR_REFIT_ADDITIONAL_GT26CW                         :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}GT26CW
 STR_REFIT_ADDITIONAL_NHSRCL_E5                      :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}NHSRCL E5
-STR_REFIT_ADDITIONAL_NSW_TrainLink_D                :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}NHSRCL E5
+STR_REFIT_ADDITIONAL_NSW_TrainLink_D                :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}NSW TrainLink D
 STR_REFIT_ADDITIONAL_THSR_700T                      :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_Renfe_S_130                    :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_Al_Boraq                       :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
