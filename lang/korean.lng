@@ -9,6 +9,7 @@ STR_GRF_URL                                      :https://github.com/GBLINER/Wor
 # locomotive's name
 STR_GT26CW_NAME                                     :[WTS] GT26CW
 STR_NHSRCL_E5_NAME                                  :[WTS] NHSRCL E5
+STR_NSW_TrainLink_D_NAME                            :[WTS] NSW TrainLink D
 STR_THSR_700T_NAME                                  :[WTS] THSR 700T (타이완 고속철도)
 STR_Renfe_S_130_NAME                                :[WTS] 아프로시욥
 STR_Al_Boraq_NAME                                   :[WTS] 알 보라크
@@ -27,6 +28,7 @@ STR_PARAM_High_SPEED_Train_DESC                     :고속열차의 속도를 �
 # Refit (Additional text) 실제(BLUE), 시험(YELLOW), 계획 (PURPLE), 가상 (RED)
 STR_REFIT_ADDITIONAL_GT26CW                         :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}GT26CW
 STR_REFIT_ADDITIONAL_NHSRCL_E5                      :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}NHSRCL E5
+STR_REFIT_ADDITIONAL_NSW_TrainLink_D                :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}NHSRCL E5
 STR_REFIT_ADDITIONAL_THSR_700T                      :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
 STR_REFIT_ADDITIONAL_Renfe_S_130                    :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
 STR_REFIT_ADDITIONAL_Al_Boraq                       :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
