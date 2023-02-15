@@ -19,6 +19,7 @@ STR_Avelia_Liberty_NAME                             :[WTS] Avelia Liberty
 
 # wagon's name
 STR_WTS_PASS_NAME                                   :[WTS] Passenger Car
+STR_FLAT_2F_NAME                                    :[WTS] Flat Car - American
 
 # Parameters
 STR_PARAM_Regular_SPEED_Train_NAME                  :Regular Train Speed Variable

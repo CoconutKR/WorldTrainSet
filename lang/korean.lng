@@ -18,6 +18,7 @@ STR_Avelia_Liberty_NAME                             :[WTS] 아벨리아 리버�
 
 # wagon's name
 STR_WTS_PASS_NAME                                   :[WTS] 승객 수송 차량
+STR_FLAT_2F_NAME                                    :[WTS] 평판화차 - 미국형
 
 # Parameters
 STR_PARAM_Regular_SPEED_Train_NAME                  :일반열차 속도변수
